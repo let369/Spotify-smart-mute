@@ -7,3 +7,9 @@ Hopefully this doesn't violate any rights as the ads pass as required.<br>
 
 The extension offers from the popup an easy access enable/disable switch.<br>
 Feel free to fork, contribute or request more options/features
+
+##How to install the extension locally
+1. Download the repository as zip and extract its content.
+2. Open your Chrome extensions settings `chrome://extensions/` and enable developer mode.
+3. Click "Load unpacked" and select the `src` folder of the downloaded repo.
+![Example](screenshot.png)
